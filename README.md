@@ -46,11 +46,11 @@ Usamos **pnpm** porque es más rápido, eficiente y seguro que el gestor tradici
 
 ---
 
-## Reglas para Trabajar en Equipo (Git & GitHub)
+## Reglas (Git & GitHub)
 
 Para mantener el código ordenado y evitar borrar el trabajo de los demás, **está prohibido subir cambios directo a la rama main**.
 
-### Flujo de trabajo diario:
+### Flujo diario:
 
 1. **Crear una rama propia antes de escribir código:**
    
